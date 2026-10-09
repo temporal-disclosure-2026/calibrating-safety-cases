@@ -6,8 +6,8 @@ information in a healthcare Q&A corpus.
 
 ## Contents
 
-- `table2_blind.csv` — 20 documents from a blind random review round
-- `table3_purposive.csv` — 10 documents from a purposively sampled round
+- `blind_round_cases.csv` — Table S1: 20 documents from a blind random review round
+- `purposive_round_cases.csv` — Table S2: 10 documents from a purposively sampled round
 
 ## Columns
 
